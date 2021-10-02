@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/traderkeo/reactapp1/static/css/main.3d4382e0.chunk.css",
+    "main.js": "/traderkeo/reactapp1/static/js/main.f800c81e.chunk.js",
+    "main.js.map": "/traderkeo/reactapp1/static/js/main.f800c81e.chunk.js.map",
+    "runtime-main.js": "/traderkeo/reactapp1/static/js/runtime-main.137bc1e0.js",
+    "runtime-main.js.map": "/traderkeo/reactapp1/static/js/runtime-main.137bc1e0.js.map",
+    "static/css/2.16119aa0.chunk.css": "/traderkeo/reactapp1/static/css/2.16119aa0.chunk.css",
+    "static/js/2.90d58251.chunk.js": "/traderkeo/reactapp1/static/js/2.90d58251.chunk.js",
+    "static/js/2.90d58251.chunk.js.map": "/traderkeo/reactapp1/static/js/2.90d58251.chunk.js.map",
+    "static/js/3.dc304262.chunk.js": "/traderkeo/reactapp1/static/js/3.dc304262.chunk.js",
+    "static/js/3.dc304262.chunk.js.map": "/traderkeo/reactapp1/static/js/3.dc304262.chunk.js.map",
+    "index.html": "/traderkeo/reactapp1/index.html",
+    "static/css/2.16119aa0.chunk.css.map": "/traderkeo/reactapp1/static/css/2.16119aa0.chunk.css.map",
+    "static/css/main.3d4382e0.chunk.css.map": "/traderkeo/reactapp1/static/css/main.3d4382e0.chunk.css.map",
+    "static/js/2.90d58251.chunk.js.LICENSE.txt": "/traderkeo/reactapp1/static/js/2.90d58251.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/traderkeo/reactapp1/static/media/cacti-banner-b.d3c07af4.png",
+    "static/media/clogo.e541a209.png": "/traderkeo/reactapp1/static/media/clogo.e541a209.png",
+    "static/media/cryptocacti.899a70dc.gif": "/traderkeo/reactapp1/static/media/cryptocacti.899a70dc.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.137bc1e0.js",
+    "static/css/2.16119aa0.chunk.css",
+    "static/js/2.90d58251.chunk.js",
+    "static/css/main.3d4382e0.chunk.css",
+    "static/js/main.f800c81e.chunk.js"
+  ]
+}
